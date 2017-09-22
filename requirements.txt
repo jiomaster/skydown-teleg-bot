@@ -1,0 +1,8 @@
+sortedcontainers
+python-telegram-bot
+tinydb
+tinyrecord
+codecov
+tweepy
+mongothon3
+pymongo
