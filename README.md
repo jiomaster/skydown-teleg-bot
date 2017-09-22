@@ -1,7 +1,7 @@
 # skydown-telegram-bot
 This is a telegram bot...бот о котором я пока ничего толкового сказать не могу, ибо там будет и экшон и можно грабить караваны...ну тип того. Вот.
 
-![alt text](SkyDown%20Diagram.jpg)
+![alt text]()
 
 # Requirements
 You must have Python 3 to launch server. Also before launching you have to install requirements via pip3:
