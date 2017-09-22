@@ -13,7 +13,7 @@ Than you have to create `config.py`:
 ```Python
 # Token of your telegram bot
 # (https://core.telegram.org/bots#6-botfather)
-TELEGRAM_TOKEN = '123456789:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw '
+TELEGRAM_TOKEN = '  '
 DATABASE_PATH = 'db.json'
 USERS_PATH = 'users'
 ```
