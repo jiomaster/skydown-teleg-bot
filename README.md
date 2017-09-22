@@ -17,10 +17,6 @@ TELEGRAM_TOKEN = '123456789:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw '
 DATABASE_PATH = 'db.json'
 USERS_PATH = 'users'
 ```
-
-![alt text](SkyDown%20Diagram.jpg)
-
-
 # Launching
 
 To launch telegram bot:
